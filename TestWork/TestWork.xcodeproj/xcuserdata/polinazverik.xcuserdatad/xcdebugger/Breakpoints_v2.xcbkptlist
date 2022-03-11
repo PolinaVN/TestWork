@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "984DA33A-8F36-43FC-A953-57020423EBA3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1344254C-371B-4807-8A09-E7673666BB99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestWork/Servise/Repository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "deleteAllData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D86DF38-8225-47AF-9CE7-94950BCDB46D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestWork/Servise/Repository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "deleteAllData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB1DD63C-B5D9-4883-B80E-D8C14C32A180"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestWork/GalleryImages/View/ImageCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "configureCell(index:presenter:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22CDF1D4-CB59-47A0-B01E-009A73DE845A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestWork/GalleryImages/View/ImageCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "configureCell(index:presenter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22CDF1D4-CB59-47A0-B01E-009A73DE845A - 4a74c565f78345db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestWork.ImageCell.configureCell(index: Swift.Int, presenter: TestWork.GalleryImagesPresenter) -&gt; ()"
+                  moduleName = "TestWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinazverik/Desktop/iosProject/TestWork/TestWork/TestWork/GalleryImages/View/ImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "22CDF1D4-CB59-47A0-B01E-009A73DE845A - 6de778a2ba313707"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in TestWork.ImageCell.configureCell(index: Swift.Int, presenter: TestWork.GalleryImagesPresenter) -&gt; ()"
+                  moduleName = "TestWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinazverik/Desktop/iosProject/TestWork/TestWork/TestWork/GalleryImages/View/ImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "22CDF1D4-CB59-47A0-B01E-009A73DE845A - 3b59c7031f868559"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Foundation.Data) -&gt; () in TestWork.ImageCell.configureCell(index: Swift.Int, presenter: TestWork.GalleryImagesPresenter) -&gt; ()"
+                  moduleName = "TestWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/polinazverik/Desktop/iosProject/TestWork/TestWork/TestWork/GalleryImages/View/ImageCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
